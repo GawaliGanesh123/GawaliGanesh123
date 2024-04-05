@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gawali Ganesh</h1>
-<h3 align="center">Aspiring IT Professional</h3>
+<h2 align="center">✨ WelCome To My Profile😊💫</h2>
+<h3 align="center"><b>👨🏻‍💻Aspiring IT Professional🎓</b></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gawaliganesh123&label=Profile%20views&color=0e75b6&style=flat" alt="gawaliganesh123" /> </p>
 
