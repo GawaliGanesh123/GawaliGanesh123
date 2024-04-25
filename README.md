@@ -2,6 +2,8 @@
 <h2 align="center">✨ WelCome To My Profile😊💫</h2>
 <h3 align="center"><b>👨🏻‍💻Aspiring IT Professional🎓</b></h3>
 
+<img align= "right" alt= "Coding" width= "400" src = "https://user-images.githubusercontent.com/98527559/175492401-7d16c8fd-da98-4dc4-b8f6-b4993744a063.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gawaliganesh123&label=Profile%20views&color=0e75b6&style=flat" alt="gawaliganesh123" /> </p>
 
 - 🌱 I’m currently learning **Data Structures**
