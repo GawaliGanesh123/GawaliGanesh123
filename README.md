@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gawaliganesh123&label=Profile%20views&color=0e75b6&style=flat" alt="gawaliganesh123" /> </p>
 
-- 🌱 I’m currently learning **Data Structures**
+- 🌱 I’m currently learning **UNIX Operating System**
 
 - 📫 How to reach me **gawaliganesh043@gmail.com**
 
